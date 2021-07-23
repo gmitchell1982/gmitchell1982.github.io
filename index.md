@@ -19,6 +19,7 @@ When left to my own devices and not being managed directly by others, I have a t
 7. Visualize Data
 8. Report Findings
 9. Suggest Potential For Further Investigation(s)
+
 Note: loops of draft/process improvement can exist within his generalized sequence
 
 ### My Biggest Project Interests
