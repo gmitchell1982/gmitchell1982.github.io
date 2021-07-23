@@ -19,7 +19,7 @@ When left to my own devices and not being managed directly by others, I have a t
 7. Visualize Data
 8. Report Findings
 9. Suggest Potential For Further Investigation(s)
-* Note: loops of draft/process improvement can exist within his generalized sequence
+Note: loops of draft/process improvement can exist within his generalized sequence
 
 ### My Biggest Project Interests
 The following is a list of my favorite kinds of projects to work on, **NOT** a comprehensive list of things I will work on.
